@@ -1,0 +1,32 @@
+.whole{
+    margin: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 90%;
+    height: 90%;
+    background-color: rgb(225, 241, 246);
+}
+.main{
+  display: flex;
+  
+}
+.flex1{
+  margin: 1px;
+  padding-left: 1px;
+  color:rgb(0, 0, 0);
+  width: 50%;
+} 
+.flex2{
+    margin: 5px;
+    padding-left: 3px;
+    color:rgb(0, 0, 0);
+}
+
+
+.imagep{
+  width: 150px;
+  height: 150px;
+  border-radius: 80px;
+  justify-content: center;
+  margin-top: 10px;
+}
